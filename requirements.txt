@@ -1,0 +1,6 @@
+community==1.0.0b1
+infomap==2.7.1
+matplotlib==3.8.2
+networkx==3.2.1
+numpy==1.26.2
+pandas==2.1.4
